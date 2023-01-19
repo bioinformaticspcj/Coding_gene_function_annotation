@@ -1,4 +1,5 @@
 #!/usr/bin/perl -w
+#author:pcj
 use Parallel::ForkManager;
 use strict;
 my($idmapping_file,$blast6_out_dir,$databas,$max_process);
